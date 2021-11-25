@@ -1,0 +1,25 @@
+{
+  "name": "hey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apps.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidleonn/hey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidleonn/hey/issues"
+  },
+  "homepage": "https://github.com/davidleonn/hey#readme"
+}
